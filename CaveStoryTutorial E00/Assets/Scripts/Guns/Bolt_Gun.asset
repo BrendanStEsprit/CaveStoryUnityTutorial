@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525bb1461b75db4448804934c58dae33, type: 3}
+  m_Name: Bolt_Gun
+  m_EditorClassIdentifier: 
+  name: BoltGun
+  description: DESCRIPTION
+  sprite: {fileID: -7075417623592336990, guid: 72eea4f6453ff6348bdd14dd22bc5a00, type: 3}
+  handleOffsetX: -5
+  handleOffsetY: -5
+  shootablePrefab: {fileID: 6196080874512496439, guid: 76c50d140707eb84888e3af7d3615226,
+    type: 3}
+  shootablePrefab2: {fileID: 3046992413773809872, guid: 8b174ad42ab42d84ca64898268c8be01,
+    type: 3}
+  shootablePrefab3: {fileID: 8404468619244739162, guid: 5b5aeb5d0f4d41947a5ef95b89939ffe,
+    type: 3}

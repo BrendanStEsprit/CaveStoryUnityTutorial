@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525bb1461b75db4448804934c58dae33, type: 3}
+  m_Name: PolarStar
+  m_EditorClassIdentifier: 
+  name: PolarStar
+  description: DESCRIPTION
+  sprite: {fileID: 6486165119132956267, guid: 6873aa0d9871b914397dbcbdcf6ce07e, type: 3}
+  handleOffsetX: -6
+  handleOffsetY: -2
+  shootablePrefab: {fileID: 6384240783850972379, guid: 90883810e76083645b6db7f887ba32f1,
+    type: 3}
+  shootablePrefab2: {fileID: 2571747679094137723, guid: 27cfd03c12fc132408257dab78aa517c,
+    type: 3}
+  shootablePrefab3: {fileID: 7356154455425735929, guid: 9008d95a276d721428f4763bf0dc75e2,
+    type: 3}
